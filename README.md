@@ -1,4 +1,15 @@
 # My Portfolio
-* Click here to see my e-portfolio <a href="https://farahaisya.github.io/Portfolio/">View here </a>
-* ![Portfolio Preview] (Website Preview.png)
+Welcome to my personal portfolio repository!
+
+### Click here to see my e-portfolio <a href="https://farahaisya.github.io/Portfolio/">View here </a>
+* ![Portfolio Preview] <a href="Website Preview.png" </a>
+
+## Built With
+* **HTML / CSS** (Custom Styling & Layout)
+* **JavaScript** (Interactive elements)
+* **Github Pages** (Deployment)
+
+## Features
+* Fully Responsive
+* Contact Form
 
